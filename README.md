@@ -1,7 +1,7 @@
-# Agenda de Contatos - Frontend
+## Agenda de Contatos - Frontend
 Este projeto consiste na terceira parte da disciplina Desenvolvimento de Software para WEB da Universidade Federal do Ceará.
 
-# Instruções
+## Instruções
 Para executar esse projeto você precisará da API que pode ser encontrada [neste repositório](https://github.com/bebetoalves/agenda-contatos-api-trabalho-web).
 
 ### Instalação de Dependências
@@ -19,5 +19,5 @@ Você também pode iniciar o servidor de desenvolvimento:
 npm run dev
 ```
 
-# Prévia
-![](https://i.imgur.com/UGZaoBR.png | width=300)
+## Prévia
+![Prévia da aplicação](https://i.imgur.com/UGZaoBR.png | width=300)
