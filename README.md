@@ -20,4 +20,4 @@ npm run dev
 ```
 
 ## Prévia
-![Prévia da aplicação](https://i.imgur.com/UGZaoBR.png | width=300)
+![Prévia da aplicação](https://i.imgur.com/UGZaoBR.png)
