@@ -4,7 +4,7 @@ Este projeto consiste na terceira parte da disciplina Desenvolvimento de Softwar
 ## Instruções
 Para executar esse projeto você precisará da API que pode ser encontrada [neste repositório](https://github.com/bebetoalves/agenda-contatos-api-trabalho-web).
 
-### Instalação de Dependências
+### Instalação de dependências
 Para instalar as dependências do projeto execute o comando:
 ```bash
 npm install
