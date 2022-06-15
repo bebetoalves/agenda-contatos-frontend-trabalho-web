@@ -7,7 +7,7 @@
 
 ## :rocket: Technologies
 
-In this Vue.js application I consume an API to list, add, edit or delete contacts from a contact book.
+In this Vue.js application I consume an API to list, add, edit or delete contacts from a address book.
 
 - [Vue.js](https://vuejs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
